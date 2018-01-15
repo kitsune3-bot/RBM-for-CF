@@ -25,7 +25,7 @@ ___
 学習をする(バッチ学習)  
 * \* CF Trainer Online  
 学習をする(オンライン学習)  
-* \* CF Predictor    
+* \* CF Predictor    
 欠損値の推定を行う    
 * rbmlib    
 RBMのライブラリ各種    
